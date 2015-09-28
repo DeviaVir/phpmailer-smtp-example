@@ -1,0 +1,12 @@
+{
+    "name": "deviavir/phpmailer-smtp-example",
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "authors": [
+        {
+            "name": "Chase Sillevis",
+            "email": "chase@sillevis.net"
+        }
+    ]
+}
